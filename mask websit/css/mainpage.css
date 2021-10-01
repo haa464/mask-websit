@@ -1,0 +1,37 @@
+﻿.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover {
+        color: #ffd800;
+}
+
+#footer1 {
+    background: #762b00;
+}
+
+#footer2 {
+    background: #531f00;
+}
+#l1{
+    padding-left: 700px;
+    margin-left:50px;
+}
+    #l1:link, #l1:visited {
+        text-decoration: none;
+    }
+    #l1:hover, #l1:active {
+        text-decoration: underline;
+    }
+
+
+.navbar-brand {
+    text-align: center;
+    padding-left: 600px;
+    font-size: 25px;
+    font-style: unset;
+    color:aqua;
+}
+
+
